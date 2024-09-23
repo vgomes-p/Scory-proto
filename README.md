@@ -1,2 +1,2 @@
-# Scory-proto
+# Scory [prototype]
  

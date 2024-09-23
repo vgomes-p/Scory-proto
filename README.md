@@ -1,0 +1,2 @@
+# Scory-proto
+ 
